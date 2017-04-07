@@ -1,0 +1,135 @@
+# Table of Contents
+
+***For reference with the auto-generated ToC, only; to be deprecated!***
+
+- INTRODUCTION
+  - Synthesis and analysis
+  - The difference between static and dynamic symmetry
+  - Sources for the study of dynamic symmetry
+- THE DYNAMIC SYMMETRY OF THE PLANT
+  - The summation series
+  - How dynamic symmetry was discovered
+  - The logarithmic spiral
+  - The law of phyllotaxis
+  - Explanation of its application to design
+- PART I. SIMPLE RECTANGLES
+  - LESSON 1: THE SQUARE (OR UNITY)
+    - Methods for manipulating the plan forms of nature
+    - The square and its diagonal
+    - The square and the diagonal to its half
+    - The root rectangles constructed outside a square
+    - The linear proportions of the root rectangles
+    - The root rectangles constructed within a square
+  - LESSON 2. THE RECTANGLE OF THE WHIRLING SQUARES (1.618) AND THE ROOT-FIVE RECTANGLE (2.236)
+    - Construction of a whirling square rectangle
+    - Method for constructing a root-five from a whirling square rectangle
+    - Cutting a line in what Plato called “the section”
+  - LESSON 3. THE APPLICATION OF AREAS
+    - Simple method of the Greeks for the division of areas
+    - Process for the application of the square on an end to a side of a rectangle
+  - LESSON 4. THE RECIPROCAL
+    - Definition of a reciprocal
+    - Importance to design of a reciprocal shape
+    - Explanation of the name “whirling squares”
+    - Arithmetical statement of the reciprocal considered
+    - Relationship between whirling square reciprocals and the root-five rectangle
+  - LESSON 5. THE DIAGONAL
+    - The diagonal of a rectangle
+    - The 47th proposition of the first book of Euclid
+    - The diagonal of a reciprocal
+    - Various methods for establishing reciprocals
+    - The rectangular spiral
+    - Intersection of a diagonal of the whole with a diagonal of the reciprocal
+    - Division of the root rectangles into their reciprocals
+  - LESSON 6. THE ROOT-TWO RECTANGLE (1.4142)
+    - Why a root-two rectangle is so called
+    - Rectangular spirals in a root-two rectangle
+    - A root-two rectangle plus a square
+    - A root-two rectangle described within a square
+    - Root-two rectangles described on the four sides of a square
+    - The reciprocal of a root-two rectangle plus a square
+    - A square plus two root-two reciprocals
+    - Division of a root-two rectangle into its reciprocals
+    - Division of any rectangle into thirds
+  - LESSON 7. THE ROOT-TWO RECTANGLE AND THE APPLICATION OF AREA
+    - A square “applied” on the end of a root-two rectangle
+    - Application of areas to other areas—A square applied to each end of a root-two rectangle
+    - Division of a root-two rectangle when the diagonal of the whole cuts the side of an applied square
+    - Application of a square on an end to a side of a root-two rectangle
+    - Similarity of figure
+    - A root-two rectangle applied to the square of a 2.4142 shape
+    - A square applied to a root-two reciprocal
+  - LESSON 8. THE ROOT-THREE RECTANGLE (1.732)
+    - Construction of a root-three rectangle
+    - Application of a square on the end of a root-three rectangle
+    - A square on an end applied to a side of a root-three rectangle
+    - Division of the root-three rectangle into its reciprocals
+    - Different ways of dividing the root-three rectangle into similar shapes
+  - LESSON 9. THE ROOT-FOUR RECTANGLE (2)
+    - Construction of a root-four rectangle
+    - Division into its reciprocals
+    - Dynamic and static treatment of a root-four rectangle
+    - A whirling square rectangle applied to a root-four rectangle
+    - A square on an end applied to a side of a root-four rectangle
+  - LESSON 10. THE ROOT-FIVE RECTANGLE (2.236)
+    - Construction of a root-five rectangle
+    - Four whirling square rectangles described on the four sides of a square
+    - A square applied on the end of a root-five rectangle
+    - A square on an end applied to a side of a root-five rectangle
+    - Division of the root-five rectangle into its reciprocals
+  - LESSON 11. THE SPIRAL AND OTHER CURVES OF DYNAMIC SYMMETRY
+    - The logarithmic or constant angle spiral
+    - The first geometrical discovery made by the Greeks
+    - Another great discovery, that of a mean proportional
+    - Definition of a mean proportional
+    - Lines in continued proportion
+    - Logarithmic spiral drawn within a rectangle
+    - Construction of volutes of different kinds
+  - LESSON 12. GENERAL CONSTRUCTIONS FOR SIMILARITY OF FIGURE 65
+    - Enlargement and reduction of shapes by a diagonal
+    - Construction of similar shapes which can be moved up or down on a medial line
+    - Similar shapes constructed from any point in a rectangle;—Properties of modulation and measurableness in dynamic areas
+    - Construction of shapes similar to dynamic subdivisions of areas
+    - Eternal principle of growth in dynamic shapes
+- PART II. COMPOUND RECTANGLES
+  - LESSON I. THE COMPLEMENT
+    - Form and color complements compared—Definition of a complement—Relationship between areas and their complements—Division of areas in terms of their complements—A reciprocal in a complement of a root-five rectangle —Intention the dominant factor in artistic expression—Importance to the artist of the use of diagonal lines—To transfer a complement—How to construct different rectangles in single and multiple form within areas
+  - LESSON II. RHYTHMIC THEMES OF THE WHIRLING SQUARE RECTANGLE
+    - Root-five rectangles within the rectangle of the whirling squares
+    - Arithmetical analysis
+    - Other subdivisions of the whirling square rectangle—Summing up of other ratios appearing in this lesson
+  - LESSON III. THE SQUARE PLUS A ROOT-FIVE RECTANGLE (1.4472) AND A WHIRLING SQUARE RECTANGLE APPLIED TO A SQUARE
+    - The 1.4472 rectangle, the key ratio for the Parthenon plan
+    - Its natural source in the regular pentagon
+    - How to draw a square plus a root-five rectangle
+    - Connection between the ratio 1.4472 and 1.382
+    - How a whirling square rectangle is applied to a square
+    - Diagonals of the whole and diagonals of the reciprocals drawn to a whirling square rectangle within a square
+  - LESSON IV. COMPOUND RECTANGLES WITHIN A SQUARE
+    - Area in excess of a root-five rectangle placed within a square—Natural source of an .809 rectangle
+    - A .191 rectangle
+    - A 1.191 rectangle
+  - LESSON V. FURTHER ANALYSES OF THE SQUARE
+    - Analysis of excess areas resulting from application of a whirling square rectangle to a square
+  - LESSON VI. THE ADDITION OF UNITY TO DYNAMIC AREAS
+    - Consistent subdivisions of dynamic areas
+    - The 2.191 rectangle
+    - A 1.382 shape applied to a 2.191 rectangle
+    - A 1.309 shape applied to a 2.191 rectangle
+    - Further division of the 2.191 rectangle
+  - LESSON VII. THE GNOMON
+    - Importance to design of similarity of figure
+    - Why algebraic symbols are not used
+    - Analytical method for determining the nature of unknown areas
+    - Use of the gnomon or carpenter’s square
+  - LESSON VIII. RATIOS MOST FREQUENTLY USED, THEIR RECIPROCALS AND SIMPLE DIVISIONS
+    - List, with corresponding diagrams, of the most important ratios of dynamic symmetry, with their reciprocals, % ratios and % reciprocals
+  - LESSON IX. RATIOS MOST FREQUENTLY USED
+    - *Continued* no
+    - Analysis of a 2.309 shape with list of its subdivisions
+    - List of subdivisions of the 2.4472, 2.472, 2.618 and 2.764 shapes
+    - Odd compound rectangles within a square
+- WHAT INSTRUMENTS TO USE AND HOW TO USE THEM
+- DEFINITIONS SELECTED FROM THE THIRTEEN BOOKS OF EUCLID’S ELEMENTS
+- GLOSSARY
+
